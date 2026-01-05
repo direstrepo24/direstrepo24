@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/direstrepo24/direstrepo24/raw/main/banner.png" alt="Software Architecture Banner" width="100%" style="max-width: 800px;">
+  <img src="https://github.com/direstrepo24/direstrepo24/raw/main/BannerPerfil.png?raw=true" alt="Software Architecture Banner" width="100%" style="max-width: 800px;">
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/direstrepo24" target="_blank">Didier Restrepo</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
